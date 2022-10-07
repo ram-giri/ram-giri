@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ram-giri
+- 👋 Hi, I’m Ram Giri
 - 🌱 I’m currently learning Dart and Flutter.
 - 📫 How to reach me ramlauruk1@gmail.com
 
